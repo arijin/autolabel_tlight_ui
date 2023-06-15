@@ -1,0 +1,54 @@
+{
+  "objects": [
+    {
+      "id": 1,
+      "start_frame": 1,
+      "end_frame": 356,
+      "start_frame_name": "000001.txt",
+      "end_frame_name": "000359.txt",
+      "frame_count": 356,
+      "average_confidence": 1.0,
+      "lost_frames": []
+    },
+    {
+      "id": 2,
+      "start_frame": 1,
+      "end_frame": 356,
+      "start_frame_name": "000001.txt",
+      "end_frame_name": "000359.txt",
+      "frame_count": 356,
+      "average_confidence": 0.99,
+      "lost_frames": []
+    },
+    {
+      "id": 4,
+      "start_frame": 12,
+      "end_frame": 356,
+      "start_frame_name": "000012.txt",
+      "end_frame_name": "000359.txt",
+      "frame_count": 345,
+      "average_confidence": 0.98,
+      "lost_frames": []
+    },
+    {
+      "id": 16,
+      "start_frame": 69,
+      "end_frame": 82,
+      "start_frame_name": "000070.txt",
+      "end_frame_name": "000083.txt",
+      "frame_count": 14,
+      "average_confidence": 0.57,
+      "lost_frames": []
+    },
+    {
+      "id": 26,
+      "start_frame": 189,
+      "end_frame": 191,
+      "start_frame_name": "000190.txt",
+      "end_frame_name": "000192.txt",
+      "frame_count": 3,
+      "average_confidence": 0.56,
+      "lost_frames": []
+    }
+  ]
+}
